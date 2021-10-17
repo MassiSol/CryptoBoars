@@ -1,7 +1,8 @@
 Punti della Roadmap:
 Completare la prima serie su holaplex [80%]
 Programmare giveaways per allargare la community
-Farsi listare su un secondary market (solanart,magic eyes, etc...) [0%]
+Farsi listare su un secondary market (solanart,magic eyes, etc...) [10%]
+Realizzare un sito web [0%]
 Temi delle serie su holaplex scelte dalla community [15%]
 Airdrop per la community per le festività [0%]
 Eventi di beneficenza [0%]
